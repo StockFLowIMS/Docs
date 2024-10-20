@@ -6,16 +6,16 @@
 
 <!-- Badges -->
 <p>
-    <a href="">
+    <a href="https://github.com/StockFLowIMS/Docs/commits/Dev/" style="text-decoration:none">
         <img src="https://img.shields.io/github/last-commit/StockFlowIMS/Docs" alt="last update" />
     </a>
-    <a href="https://github.com/StockFlowIMS/Docs/issues/">
+    <a href="https://github.com/StockFlowIMS/Docs/issues/" style="text-decoration:none">
         <img src="https://img.shields.io/github/issues/StockFlowIMS/Docs" alt="open issues" />
     </a>
-    <a href="https://github.com/StockFLowIMS/Docs/blob/Dev/LICENSE">
+    <a href="https://github.com/StockFLowIMS/Docs/blob/Dev/LICENSE" style="text-decoration:none">
         <img src="https://img.shields.io/github/license/StockFlowIMS/Docs" alt="license" />
     </a>
-    <a>
+    <a href="https://github.com/StockFLowIMS/Docs/blob/Dev/README.md" style="text-decoration:none">
         <img src="https://img.shields.io/badge/Readme%20completion-15%25-blue" alt="readme completion" />
     </a>
 </p>
